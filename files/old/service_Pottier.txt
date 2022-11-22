@@ -1,0 +1,15 @@
+service de Laurent Pottier :
+L S1 UE1-A TICE : 24.0 hetd
+L S5 UE1-B Acoustique : 13.5 hetd
+L S5 UE1-B Acoustique : 12.0 hetd
+L S6 UE1-B Histoire des musiques électroac : 13.5 hetd
+L S6 UE1-B Histoire des musiques électroac : 12.0 hetd
+M S1 UE1-2 Methodologie : 6.0 hetd
+M S1 UE2-A3 Musique électroacoustiques : 4.5 hetd
+M S1 UE2-A3 Musique électroacoustiques : 18.0 hetd
+M S1 UE2-A3 Musique électroacoustiques : 6.0 hetd
+RIM S3 UE3-B Composition algorithmique : 12.0 hetd
+RIM S3 UE3-C Dispo. audio temps réel : 10.0 hetd
+RIM S3 Gal Projets : 4.0 hetd
+ALL S2 Gal Dialogue des Arts : 1.5 hetd
+Artnum S1 Gal Histoire arts nums : 2.0 hetd

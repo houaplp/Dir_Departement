@@ -1,0 +1,196 @@
+service de Matthieu Cailliez :
+L S2 UE4 Histoire XVIIIe : 1 day, 12:00:00 hetd
+L S2 UE6-C Solfege initiant : 1 day, 0:00:00 hetd
+L S3 UE3-D Histoire de la musique 1800-70 : 1 day, 3:00:00 hetd
+L S3 UE3-D Histoire de la musique 1800-70 : 1 day, 3:00:00 hetd
+L S5 UE1-C Histoire de la musique 1870-1930 : 1 day, 12:00:00 hetd
+M S1 UE2-A1 Musicologie XVIII-XIXe : 4:30:00 hetd
+M S1 UE2-A1 Musicologie XVIII-XIXe : 18:00:00 hetd
+M S1 UE2-A1 Musicologie XVIII-XIXe : 6:00:00 hetd
+Formation nouveaux recrutés : 1 day, 9:00:00hetd
+total : 8 days, 19:30:00 hetd
+
+service de Anne Damon-Guillot :
+L S1 UE6-B Solfege initiant : 8:00:00 hetd
+L S2 UE3-A Arts et spe-ethno : 1 day, 3:00:00 hetd
+L S3 UE1-D PPP : 11:00:00 hetd
+L S4 UE1-D PPP : 0:00:00 hetd
+L S4 UE3-A Ethnomusicologie : 1 day, 12:00:00 hetd
+L S6 UE1-A Ethnomusicologie : 1 day, 6:00:00 hetd
+L S6 Gal Enseignant référent : 12:00:00 hetd
+M S1 UE1-2 Methodologie : 2:30:00 hetd
+M S1 UE1-2 Methodologie : 4:00:00 hetd
+M S1 UE2-A2 Ethnomusicologie : 4:30:00 hetd
+M S1 UE2-A2 Ethnomusicologie : 18:00:00 hetd
+M S1 UE2-A2 Ethnomusicologie : 6:00:00 hetd
+Co-direction A.R.T.S. : 1 day, 12:00:00hetd
+total : 8 days, 3:00:00 hetd
+
+service de Marc Desmet :
+L S2 Gal Enseignant référent : 18:00:00 hetd
+L S4 UE3-D Histoire de la musique 900-1600 : 1 day, 3:00:00 hetd
+L S4 UE3-D Histoire de la musique 900-1600 : 1 day, 3:00:00 hetd
+L S5 UE3-B1 Paléographie musicale 1 : 18:00:00 hetd
+L S5 UE3-B2 Iconographie musicale : 18:00:00 hetd
+L S6 UE3-B1 Paléographie musicale 1 : 18:00:00 hetd
+M S1 UE1-2 Methodologie : 10:00:00 hetd
+M S2 UE2-A1 Musicologie XVIe-XVIIe : 22:30:00 hetd
+M S2 UE2-A1 Musicologie XVIe-XVIIe : 6:00:00 hetd
+AGM S4 UE4-1 Recherche en discographie : 12:00:00 hetd
+ALL S2 Gal Dialogue des Arts : 1:30:00 hetd
+Mission R.I. : 1 day, 0:00:00hetd
+total : 8 days, 10:00:00 hetd
+
+service de Pierre Fargeton :
+L S1 UE3-A Arts et spe-jazz : 1 day, 3:00:00 hetd
+L S1 UE4 Histoire des arts : 1 day, 12:00:00 hetd
+L S1 UE5-B Musique d'ensemble : 15:00:00 hetd
+L S1 UE5-B Musique d'ensemble : 15:00:00 hetd
+L S2 UE5-B Musique d'ensemble : 15:00:00 hetd
+L S2 UE5-B Musique d'ensemble : 15:00:00 hetd
+L S3 UE2-D Musique d'ensemble : 1 day, 0:00:00 hetd
+L S3 UE3-A Jazz : 1 day, 12:00:00 hetd
+L S4 UE2-D Musique d'ensemble : 1 day, 0:00:00 hetd
+L S5 UE1-A Jazz : 1 day, 12:00:00 hetd
+M S2 UE2-A2 Jazz : 22:30:00 hetd
+M S2 UE2-A2 Jazz : 6:00:00 hetd
+ALL S2 Gal Dialogue des Arts : 1:30:00 hetd
+Comedie S1 Gal Musicologie pour comédiens : 9:00:00 hetd
+total : 11 days, 18:00:00 hetd
+
+service de Fabien Houles :
+L S1 UE5-A Chorale : 1 day, 12:00:00 hetd
+L S1 UE6-A Technique analyse auditive : 18:00:00 hetd
+L S1 UE6-A Technique analyse auditive : 18:00:00 hetd
+L S1 UE6-B Solfege (dechiffrage chanté) : 6:00:00 hetd
+L S1 UE6-B Solfege (dechiffrage chanté) : 6:00:00 hetd
+L S2 UE1 Methodologie : 18:00:00 hetd
+L S2 UE5-A Chorale : 1 day, 12:00:00 hetd
+L S2 UE6-A Technique analyse partition : 18:00:00 hetd
+L S2 UE6-A Technique analyse partition : 18:00:00 hetd
+L S2 UE6-B Harmonie : 1 day, 0:00:00 hetd
+L S2 UE6-B Harmonie : 1 day, 0:00:00 hetd
+L S2 UE6-C Solfege (dechiffrage chanté) : 6:00:00 hetd
+L S2 UE6-C Solfege (dechiffrage chanté) : 6:00:00 hetd
+L S3 UE1-B Chorale : 0:00:00 hetd
+L S3 UE2-A Harmonie : 1 day, 0:00:00 hetd
+L S3 UE2-A Harmonie : 1 day, 0:00:00 hetd
+L S3 UE3-C Analyse sur partitions : 1 day, 3:00:00 hetd
+L S4 UE1-B Chorale : 0:00:00 hetd
+L S4 UE2-A Harmonie : 1 day, 0:00:00 hetd
+L S4 UE2-A Harmonie : 1 day, 0:00:00 hetd
+L S4 UE3-C Analyse auditive : 1 day, 3:00:00 hetd
+L S5 UE2-D Direction de choeur : 1 day, 0:00:00 hetd
+L S6 UE2-D Direction de choeur : 1 day, 0:00:00 hetd
+M S1 UE1-4a Analyse auditive : 9:00:00 hetd
+M S1 UE1-4a Analyse auditive : 6:00:00 hetd
+total : 18 days, 15:00:00 hetd
+
+service de Matteo Olivo :
+L S1 UE1-B Methodologie : 18:00:00 hetd
+L S1 UE1-B Methodologie : 18:00:00 hetd
+total : 1 day, 12:00:00 hetd
+
+service de Laurent Pottier :
+L S1 UE1-A TICE : 1 day, 0:00:00 hetd
+L S5 UE1-B Acoustique : 13:30:00 hetd
+L S5 UE1-B Acoustique : 12:00:00 hetd
+L S6 UE1-B Histoire des musiques électroac : 13:30:00 hetd
+L S6 UE1-B Histoire des musiques électroac : 12:00:00 hetd
+M S1 UE1-2 Methodologie : 6:00:00 hetd
+M S1 UE2-A3 Musique électroacoustiques : 4:30:00 hetd
+M S1 UE2-A3 Musique électroacoustiques : 18:00:00 hetd
+M S1 UE2-A3 Musique électroacoustiques : 6:00:00 hetd
+RIM S3 UE3-B Composition algorithmique : 12:00:00 hetd
+RIM S3 UE3-C Dispo. audio temps réel : 10:00:00 hetd
+RIM S3 Gal Projets : 4:00:00 hetd
+ALL S2 Gal Dialogue des Arts : 1:30:00 hetd
+Artnum S1 Gal Histoire arts nums : 2:00:00 hetd
+Direction département musique : 1 day, 4:00:00hetd
+Direction RIM : 20:00:00hetd
+Référent Pédagogie Numérique : 20:00:00hetd
+total : 8 days, 15:00:00 hetd
+
+service de Viviane Waschbüsch :
+L S6 UE1-C Histoire de la musique après 1930 : 1 day, 12:00:00 hetd
+M S1 UE1-2 Methodologie : 1:30:00 hetd
+M S2 UE2-A3 Musicologie XXe-XXIe : 22:30:00 hetd
+M S2 UE2-A3 Musicologie XXe-XXIe : 6:00:00 hetd
+AGM S3 Gal Projet coll : 10:00:00 hetd
+AGM S3 Gal Projet perso : 9:00:00 hetd
+Direction AGM : 1 day, 6:00:00hetd
+Formation nouveaux recrutés : 1 day, 9:00:00hetd
+Décharge jeune chercheuse : 1 day, 20:00:00hetd
+total : 8 days, 0:00:00 hetd
+
+service de X X :
+L S1 UE6-B Solfege initiant : 16:00:00 hetd
+total : 16:00:00 hetd
+
+service de Greg Aliot :
+M S1 UE1-4b Techniques de studio : 20:00:00 hetd
+total : 20:00:00 hetd
+
+service de Jean-Marc Bardot :
+L S5 UE1-C Histoire de la musique 1870-1930 : 1 day, 12:00:00 hetd
+total : 1 day, 12:00:00 hetd
+
+service de Valérie Bertrand :
+L S1 UE6-B Solfege : 1 day, 0:00:00 hetd
+L S1 UE6-B Solfege initiant : 1 day, 0:00:00 hetd
+L S2 UE6-C Solfege : 1 day, 0:00:00 hetd
+L S2 UE6-C Solfege initiant : 1 day, 0:00:00 hetd
+L S3 UE2-B Solfege : 1 day, 0:00:00 hetd
+L S4 UE2-B Solfege : 1 day, 0:00:00 hetd
+total : 6 days, 0:00:00 hetd
+
+service de Vincent Carinola :
+M S1 UE1-4b Techniques de studio : 9:00:00 hetd
+M S1 UE1-4b Techniques de studio : 1:00:00 hetd
+total : 10:00:00 hetd
+
+service de Leo Clerc :
+L S1 UE2-B Anglais : 18:00:00 hetd
+L S1 UE2-B Anglais : 18:00:00 hetd
+L S2 UE2-B Anglais : 18:00:00 hetd
+L S2 UE2-B Anglais : 18:00:00 hetd
+L S5 UE3-A Anglais : 18:00:00 hetd
+L S6 UE3-A Anglais : 18:00:00 hetd
+total : 4 days, 12:00:00 hetd
+
+service de Nicolas Delaigue :
+L S6 UE1-A Ethnomusicologie : 6:00:00 hetd
+total : 6:00:00 hetd
+
+service de Philippe Ezequel :
+M S2 UE2-B5 Initiation à la programmation : 18:00:00 hetd
+M S2 UE2-B5 Initiation à la programmation : 12:00:00 hetd
+total : 1 day, 6:00:00 hetd
+
+service de Raphael Forment :
+L S3 UE3-B Atelier d'informatique mus : 1 day, 0:00:00 hetd
+L S4 UE3-B Atelier d'informatique mus : 1 day, 0:00:00 hetd
+total : 2 days, 0:00:00 hetd
+
+service de Catherine Fuchs :
+L S3 UE2-C Accompagnement : 10:00:00 hetd
+L S3 UE2-C Accompagnement : 10:00:00 hetd
+L S4 UE2-C Accompagnement : 10:00:00 hetd
+L S4 UE2-C Accompagnement : 10:00:00 hetd
+L S5 UE2-E Accompagnement : 12:00:00 hetd
+L S5 UE2-E Accompagnement : 12:00:00 hetd
+L S6 UE2-E Accompagnement : 1 day, 0:00:00 hetd
+total : 3 days, 16:00:00 hetd
+
+service de Cédric Garde :
+L S5 UE2-C Pratique vocale individuelle : 1 day, 12:00:00 hetd
+L S5 UE2-C Pratique vocale individuelle : 1 day, 12:00:00 hetd
+L S5 UE2-C Pratique vocale individuelle : 1 day, 0:00:00 hetd
+total : 4 days, 0:00:00 hetd
+
+service de Pascale Jakubowski :
+L S6 UE1-C Histoire de la musique après 1930 : 1 day, 6:00:00 hetd
+L S6 UE1-C Histoire de la musique après 1930 : 6:00:00 hetd
+total : 1 day, 12:00:00 hetd
+
+service de Laure Jouve Villard :
